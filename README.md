@@ -1,2 +1,2 @@
 # CalculatorC
-Simple calculator in C
+Simple calculator made by using C language
